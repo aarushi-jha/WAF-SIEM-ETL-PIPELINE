@@ -19,12 +19,6 @@ Instead of switching tools or paying for a license, I built a bespoke data extra
 
 <img width="1340" height="1156" alt="WhatsApp Image 2026-07-03 at 11 15 06" src="https://github.com/user-attachments/assets/e85a7f0e-aad7-40f9-9c1c-93e188af64c7" />
 
-<img width="1600" height="948" alt="image" src="https://github.com/user-attachments/assets/8be3c462-0bc9-4351-83c4-871851b77bb5" />
-
-<img width="1600" height="948" alt="image" src="https://github.com/user-attachments/assets/b65f1cab-7011-4f96-882e-0649ff9e8e12" />
-
-<img width="1600" height="948" alt="image" src="https://github.com/user-attachments/assets/b4450d55-02f4-48ca-8ee0-4e660ef65f93" />
-
 
 <img width="1600" height="738" alt="image" src="https://github.com/user-attachments/assets/22bdbbe0-4f11-4462-bb30-afc2c5cfddc0" />
 
