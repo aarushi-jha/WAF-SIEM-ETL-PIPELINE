@@ -18,6 +18,9 @@ Instead of switching tools or paying for a license, I built a bespoke data extra
 * **Rule Configuration:** Tuned WAF semantic analysis and pattern matching to intercept and drop malicious requests before they could reach the vulnerable application layer.
 
 <img width="1340" height="1156" alt="WhatsApp Image 2026-07-03 at 11 15 06" src="https://github.com/user-attachments/assets/e85a7f0e-aad7-40f9-9c1c-93e188af64c7" />
+<img width="1374" height="584" alt="image" src="https://github.com/user-attachments/assets/c1fc568f-c6c0-4a2b-a1b4-9c35fc66f6f6" />
+<img width="1600" height="946" alt="image" src="https://github.com/user-attachments/assets/5a86921d-1ece-4622-b0d1-788be4661559" />
+<img width="1600" height="940" alt="image" src="https://github.com/user-attachments/assets/03c91f5f-4b3c-4bbc-9618-b80b6780d0a4" />
 
 
 <img width="1600" height="738" alt="image" src="https://github.com/user-attachments/assets/22bdbbe0-4f11-4462-bb30-afc2c5cfddc0" />
