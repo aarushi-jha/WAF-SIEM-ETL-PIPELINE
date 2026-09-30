@@ -31,11 +31,11 @@ Rather than switching tools or purchasing an enterprise license, I engineered a 
 ### Phase 2: Attack Simulation
 Executed targeted web attack vectors from a Kali Linux host against the reverse proxy to validate detection controls and generate threat logs:
 
-* **SQL Injection (SQLi):** `\' OR 1=1 --`
+* **SQL Injection (SQLi):** `' OR 1=1 `
 * **OS Command Injection:** Shellshock payload variations
 * **Server-Side Request Forgery (SSRF):** Cloud metadata API probes (`169.254.169.254`)
 * **Log4j / JNDI Probes:** `${jndi:ldap://...}`
-* **Polyglot XSS:** `'">><script>alert('XSS')</script><svg/onload=alert('XSS')>`
+* **Polyglot XSS:** `'"<script>alert('XSS')</script><svg/onload=alert('XSS')>`
 
 ---
 
