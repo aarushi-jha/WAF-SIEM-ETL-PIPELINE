@@ -35,7 +35,7 @@ Executed targeted web attack vectors from a Kali Linux host against the reverse 
 * **OS Command Injection:** Shellshock payload variations
 * **Server-Side Request Forgery (SSRF):** Cloud metadata API probes (`169.254.169.254`)
 * **Log4j / JNDI Probes:** `${jndi:ldap://...}`
-* **Polyglot XSS:** `'"<script>alert('XSS')</script><svg/onload=alert('XSS')>`
+* **Polyglot XSS:** `'"><script>alert('XSS')</script><svg/onload=alert('XSS')>`
 
 ---
 
